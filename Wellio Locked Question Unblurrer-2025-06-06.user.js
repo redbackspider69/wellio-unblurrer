@@ -7,10 +7,11 @@
 // @match        https://app.wellioeducation.com/schools/*/classes/*/lessons/*/learn
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wellioeducation.com
 // @grant        none
+// @license      AGPL-3.0
 // ==/UserScript==
 
 (function() {
-    window.addEventListener('DOMContentLoaded', function() {
+    window.addEventListener('load', function() {
         var blurs = Array.from(document.getElementsByClassName('bg-blur'));
         blurs.forEach(function(blur) {
             blur.remove();
