@@ -9,6 +9,6 @@ Userscript which unblurs all locked questions in a Wellio quiz, so one may do th
 ## Issues?
 
 If it appears the userscript isn't working, please [open an issue](https://github.com/redbackspider69/wellio-unblurrer/issues/new), describe your issue and upload a screenshot of the console:
-1. Press F12 on the Wellio page where you are encoutering the issue.
+1. Press F12 on the Wellio page where you are encoutering the problem.
 2. Go to the "Console" section, and take a screenshot, capturing the window.
 3. Attach it in the issue.
