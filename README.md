@@ -6,6 +6,7 @@ However, one will only be able to submit them successfully once they are actuall
 
 1. [Get Tampermonkey](https://www.tampermonkey.net/),  or equivalent userscript manager.
 2. Install the userscript from Greasyfork: https://greasyfork.org/en/scripts/538501-wellio-locked-question-unblurrer
+3. The userscript will automatically unblur locked questions, and can be toggled in your userscript manager.
 
 ## Issues?
 
